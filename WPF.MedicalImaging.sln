@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.MedicalImaging", "WPF.MedicalImaging\WPF.MedicalImaging.csproj", "{B7D796DD-06C9-4C98-BA22-3EAAC4BB8DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{E5EA215D-8AC8-41A3-BB22-38FA1AACCCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D796DD-06C9-4C98-BA22-3EAAC4BB8DEF}.Debug|x64.ActiveCfg = Debug|x64
+		{B7D796DD-06C9-4C98-BA22-3EAAC4BB8DEF}.Debug|x64.Build.0 = Debug|x64
+		{B7D796DD-06C9-4C98-BA22-3EAAC4BB8DEF}.Release|x64.ActiveCfg = Release|x64
+		{B7D796DD-06C9-4C98-BA22-3EAAC4BB8DEF}.Release|x64.Build.0 = Release|x64
+		{E5EA215D-8AC8-41A3-BB22-38FA1AACCCBA}.Debug|x64.ActiveCfg = Debug|x64
+		{E5EA215D-8AC8-41A3-BB22-38FA1AACCCBA}.Debug|x64.Build.0 = Debug|x64
+		{E5EA215D-8AC8-41A3-BB22-38FA1AACCCBA}.Release|x64.ActiveCfg = Release|x64
+		{E5EA215D-8AC8-41A3-BB22-38FA1AACCCBA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8145466F-D0E6-4A71-91F3-C67A755FC4F2}
+	EndGlobalSection
+EndGlobal
